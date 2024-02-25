@@ -10,7 +10,8 @@ You can move the ship left and right with the left and right keys. Shoot a laser
   * Music and sound effects deploymen via the PYGAME library.
   * Can start the game also by pressing 'p' when the PLAY button emerges
 
-- TODO
+-TODO
+  
   * Change the background in a space related theme.
   * Making the high score permanent via reading/write data on a file
   * Implement boss fights
