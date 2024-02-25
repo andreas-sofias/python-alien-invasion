@@ -7,8 +7,8 @@ You can move the ship left and right with the left and right keys. Shoot a laser
 
 -Extensions
 
- * Music and sound effects deploymen via the PYGAME library.
- * Can start the game also by pressing 'p' when the PLAY button emerges
+  * Music and sound effects deploymen via the PYGAME library.
+  * Can start the game also by pressing 'p' when the PLAY button emerges
 
 - TODO
   * Change the background in a space related theme.
